@@ -1,0 +1,28 @@
+Kgroup	Similarity Value	RRGGBB	Index
+Ammunition and Weapons	1	FF1300	1
+Manufacturing & Tools	10	FF9900	2
+Hardware	10	E6941A	3
+Misc Material Handling	10	CC8E33	4
+Measuring & Testing	10	B38A4D	5
+"Motors, Engines, Pumps"	15	FFE600	6
+Electro-Mechanical Systems	15	E6D11A	7
+Heating & Cooling	15	CCBD33	8
+Chemical and Related Arts	20	9EC91D	9
+Resins and Rubbers	22	9BE600	10
+Organic Compounds	25	80FF00	11
+Life & Agricultural Sciences	30	33FF00	12
+Medical	30	3AF20D	13
+Special Classes	40	26D96D	14
+Vehicles	45	4DB394	15
+Aero/Astro	50	1AE6E6	16
+Ships	60	1A6BE6	17
+Optical Systems	75	800DF2	18
+Communications & EM	85	F075E3	19
+Computers and Data Processing	85	CC33BD	20
+Electrical Systems and Devices	85	8E3E86	21
+Other	90	817E80	22
+Printed Material	90	817E80	23
+Apparel & Textiles	90	817E80	24
+Buildings	90	817E80	25
+Earth Working	90	817E80	26
+Industrial Designs	90	817E80	27
