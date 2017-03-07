@@ -1,9 +1,9 @@
 I attempted to store my final patent datasets here, but realized they were too big for github. Currently searching for a solution using some combination of AWS and/or the PatentsView API.
 
-Datafiles that need archiving or replaincing are
+Datafiles that need archiving or replacing are
 
 filename | description | R | STATA | tab
---- | --- | --- | --- | --- | ---
+--- | --- | --- | :---: | :---: | :---:
 bib_plus_mcfcls | patent bibliographic data merged with class/subclasses | 1 | 1 | 1
 bib_plus_primary_class2 | patent bibliographic data merged with top-level (e.g. p) class only | 1 | 1 | 1
 mcf_cumsum | counts and cumulative sum (since 1975) of all patents by class/subclass | 1 | 1 | 1
