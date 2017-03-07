@@ -1,4 +1,4 @@
-I attempted to store my final patent datasets here, but realized they were too big for github. Currently searching for a solution using some combination of AWS and/or the PatentsView API.
+I attempted to store my final patent datasets here, but realized they were too big for github. Currently files are archived in my personal Google Drive. A future application will pull data from the PatentsView API to generate patent density graphs on demand, making the archived data moot.
 
 Datafiles that need archiving or replacing are
 
